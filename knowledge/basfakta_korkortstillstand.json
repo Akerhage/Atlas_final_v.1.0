@@ -1,0 +1,180 @@
+{
+  "section_title": "BASFAKTA - Körkortstillstånd",
+  "source_info": "Information från Transportstyrelsens sida om Körkortstillstånd.",
+  "sections": [
+    {
+      "title": "NEJ – bil kräver INTE läkarintyg",
+      "keywords": [
+        "nej",
+        "Nej",
+        "INTE",
+        "inte",
+        "syntest",
+        "bil",
+        "Grupp 1",
+        "optiker",
+        "läkarintyg",
+        "behövs"
+      ],
+      "force_add": true,
+      "answer": "Nej, för bil (Grupp 1) krävs INTE läkarintyg. Du behöver bara göra syntest hos optiker. Läkarintyg bara för lastbil/buss."
+    },
+    {
+      "title": "Vad är ett körkortstillstånd?",
+      "answer": "Ett körkortstillstånd är ett obligatoriskt tillstånd från Transportstyrelsen som du måste ha för att få övningsköra (både privat och på trafikskola) och för att få göra dina körkortsprov.",
+      "keywords": [
+        "körkortsprov",
+        "körkortstillstånd",
+        "obligatoriskt",
+        "tillstånd",
+        "transportstyrelsen",
+        "vad är",
+        "övningsköra"
+      ]
+    },
+    {
+      "title": "Hur ansöker jag om körkortstillstånd för bil, MC eller moped (Grupp 1)?",
+      "answer": "För ansökan om körkortstillstånd för bil, MC eller moped (Grupp 1) ansöker du snabbt och enkelt via **Transportstyrelsens e-tjänst**. Förutom ansökan behöver du också göra ett **syntest** hos optiker (kostar ca **150 kr**) som oftast kan skickas in digitalt. För bil krävs alltså syntest, INTE läkarintyg.",
+      "keywords": [
+        "150 kr",
+        "ansökan",
+        "bil",
+        "e-tjänst",
+        "hur ansöker",
+        "inte läkarintyg",
+        "körkortstillstånd Grupp 1",
+        "mc",
+        "moped",
+        "optiker",
+        "synintyg",
+        "syntest",
+        "transportstyrelsen"
+      ]
+    },
+    {
+      "title": "Hur lång tid tar det att få körkortstillstånd?",
+      "answer": "Handläggningstiden är normalt upp till fyra veckor, förutsatt att alla handlingar kommit in korrekt.",
+      "keywords": [
+        "4 veckor",
+        "fyra veckor",
+        "handläggningstid",
+        "hur lång tid",
+        "hur lång tid tar det",
+        "körkortstillstånd",
+        "när får jag",
+        "väntetid"
+      ]
+    },
+    {
+      "title": "Hur ansöker jag om körkortstillstånd för lastbil eller buss?",
+      "answer": "För tung behörighet (lastbil/buss) ansöker du också via Transportstyrelsens e-tjänst, men för grupp 2 eller 3. Istället för ett syntest behöver du skicka in ett läkarintyg från en läkare.",
+      "keywords": [
+        "ansökan",
+        "buss",
+        "c",
+        "d",
+        "e-tjänst",
+        "grupp 2",
+        "grupp 3",
+        "hur ansöker",
+        "körkortstillstånd",
+        "lastbil",
+        "läkarintyg"
+      ]
+    },
+    {
+      "title": "Vad kostar ett körkortstillstånd?",
+      "answer": "Själva ansökan om körkortstillstånd hos **Transportstyrelsen är gratis**. Däremot tillkommer kostnader för intygen som krävs, såsom **synundersökningen** (ca **150 kr**) eller läkarundersökningen för tunga behörigheter.",
+      "keywords": [
+        "ansökan",
+        "avgift",
+        "gratis",
+        "kostnad",
+        "körkortstillstånd",
+        "pris",
+        "synundersökning 150 kr",
+        "transportstyrelsen",
+        "vad kostar"
+      ]
+    },
+    {
+      "title": "Hur länge gäller ett körkortstillstånd?",
+      "answer": "Ett körkortstillstånd och det tillhörande syntestet är giltigt i <EXACT_FACT>fem år (5 år)</EXACT_FACT> från den dag det utfärdas. Det kan inte förlängas, så om det går ut måste du ansöka om ett nytt.",
+      "keywords": [
+        "5 år",
+        "ansöka om nytt",
+        "giltighetstid",
+        "giltigt i fem år",
+        "hur länge",
+        "inte förlänga",
+        "körkortstillstånd giltighet",
+        "syntest giltighet"
+      ]
+    },
+    {
+      "title": "Hur lång är handläggningstiden för ett körkortstillstånd?",
+      "answer": "Handläggningstiden är normalt upp till fyra veckor (4 veckor) att få körkortstillståndet om alla handlingar (ansökan och syn/läkarintyg) har kommit in och är korrekta. Vid högt tryck eller om en utredning krävs kan handläggningstiden ta längre tid.",
+      "keywords": [
+        "4 veckor",
+        "fyra veckor",
+        "handläggningstid",
+        "hur lång tid",
+        "körkortstillstånd",
+        "när får jag",
+        "väntetid"
+      ]
+    },
+    {
+      "title": "Vad är skillnaden mellan grupp 1 och grupp 2 körkortstillstånd?",
+      "answer": "Grupp 1 omfattar bil, MC och moped (AM, A, B, BE) och kräver ett syntest hos optiker. Grupp 2 och 3 omfattar tung behörighet som lastbil och buss (C, D, CE, DE) och kräver ett läkarintyg från en läkare istället för syntest.",
+      "keywords": [
+        "bil",
+        "buss",
+        "grupp 1",
+        "grupp 2",
+        "grupp 3",
+        "jämförelse",
+        "lastbil",
+        "läkarintyg",
+        "mc",
+        "moped",
+        "skillnad",
+        "syntest",
+        "tung behörighet"
+      ]
+    },
+    {
+      "title": "Hur gammal måste man vara för att ansöka om körkortstillstånd?",
+      "answer": "Det finns **ingen åldersgräns** för att **ansöka** om körkortstillstånd (Grupp 1). Däremot finns det åldersgränser för när du får börja övningsköra (t.ex. 16 år för bil) och ta själva körkortet.",
+      "keywords": [
+        "14-åring",
+        "ansöka",
+        "hur gammal",
+        "ingen åldersgräns",
+        "körkortstillstånd",
+        "söka",
+        "ålder",
+        "åldersgräns"
+      ]
+    },
+    {
+      "title": "Måste jag ha körkortstillstånd för att övningsköra?",
+      "answer": "Ja, körkortstillstånd är obligatoriskt för att få övningsköra, både privat och på trafikskola. Du måste ha ett giltigt körkortstillstånd innan du börjar övningsköra på trafikskola.",
+      "keywords": [
+        "behöver",
+        "börja",
+        "börja på trafikskola",
+        "giltigt",
+        "krävs",
+        "köra privat",
+        "körkortstillstånd",
+        "måste",
+        "obligatoriskt",
+        "privat",
+        "starta på trafikskola",
+        "trafikskola",
+        "övningsköra"
+      ]
+    }
+  ]
+}

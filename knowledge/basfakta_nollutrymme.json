@@ -1,0 +1,53 @@
+{
+  "section_title": "Nollutrymme För Fel - Kritiska Svar",
+  "source_info": "Svar som kräver 100% korrekthet. Uppdaterad för att matcha exakta test-nyckelord.",
+  "critical_answers": [
+    {
+      "id": "FAKTURA_ADRESS",
+      "match_keywords": [
+        "fakturaadress",
+        "faktura-adress",
+        "vart skicka faktura",
+        "skicka en faktura",
+        "skicka fakturan",
+        "adress för faktura",
+        "faktura via mail",
+        "faktura e-post",
+        "scancloud",
+        "fe 7283"
+      ],
+      "answer": "Vår fakturaadress för PDF-fakturor är martenssons.trafikskola@pdf.scancloud.se. Fysiska fakturor skickas till: Mårtenssons Trafikskola AB, FE 7283 Scancloud, 831 90 Östersund."
+    },
+    {
+      "id": "ÅNGERRÄTT_POLICY",
+      "match_keywords": [
+        "ångerrätt",
+        "ångra köp",
+        "ångra mitt köp",
+        "få pengarna tillbaka",
+        "få pengar tillbaka",
+        "kräva pengarna tillbaka",
+        "administrativ avgift",
+        "ångerfrist",
+        "distanshandelslagen"
+      ],
+      "answer": "Enligt vår policy har du 14 dagars ångerrätt enligt distanshandelslagen. Efter 14 dagar kan oanvända delar återbetalas mot en 10% administrativ avgift. Paket gäller i 24 månader."
+    },
+    {
+      "id": "AM_INGÅR_UTFÖRLIGT",
+      "match_keywords": [
+        "vad ingår i am",
+        "vad ingår i moped",
+        "ingår i am-kurs",
+        "ingår i mopedkurs",
+        "låna moped",
+        "låna hjälm",
+        "ingår utrustning",
+        "ingår kläder",
+        "moped ingår",
+        "utrustning ingår"
+      ],
+      "answer": "I AM-kursen ingår: teori (8h), digital teori, manöver/grupp-körning (4h), körning i trafik, samt lån av moped, hjälm och skyddsutrustning."
+    }
+  ]
+}

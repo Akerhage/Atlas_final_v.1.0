@@ -1,0 +1,147 @@
+{
+  "section_title": "BASFAKTA - Lastbil (C, C1, CE, C1E)",
+  "source_info": "Information om de olika körkortsbehörigheterna för lastbil.",
+  "sections": [
+    {
+      "title": "Vad är C1-körkort (Medeltung lastbil)?",
+      "answer": "Med C1-körkort får du köra medeltunga lastbilar med en totalvikt på högst 7 500 kg. Du får också dra en lätt släpvagn (högst 750 kg).",
+      "keywords": [
+        "7 500 kg",
+        "7500 kg",
+        "c1",
+        "c1-körkort",
+        "medeltung lastbil",
+        "vad är"
+      ]
+    },
+    {
+      "title": "Vad är C1E-körkort?",
+      "answer": "Med C1E-körkort får du köra samma fordon som med C1 (medeltung lastbil), men du får dra en eller flera släpvagnar så länge den sammanlagda totalvikten inte överstiger 12 000 kg.",
+      "keywords": [
+        "12 000 kg",
+        "12000 kg",
+        "c1e",
+        "c1e-körkort",
+        "medeltung lastbil",
+        "tungt släp",
+        "vad är"
+      ]
+    },
+    {
+      "title": "Vad är C-körkort (Tung lastbil)?",
+      "answer": "Med C-körkort får du köra tunga lastbilar utan viktgräns. Du får också dra en lätt släpvagn (högst 750 kg).",
+      "keywords": [
+        "c",
+        "c-körkort",
+        "lastbil",
+        "tung lastbil",
+        "utan viktgräns",
+        "vad är"
+      ]
+    },
+    {
+      "title": "Vad är CE-körkort?",
+      "answer": "Med CE-körkort får du köra tung lastbil (samma som C-behörighet) och du får dessutom dra en eller flera släpvagnar utan viktgräns.",
+      "keywords": [
+        "ce",
+        "ce-körkort",
+        "släpvagn",
+        "tung lastbil",
+        "tungt släp",
+        "vad är"
+      ]
+    },
+    {
+      "title": "Vilka grundkrav finns för att ta lastbilskörkort?",
+      "answer": "För att ta körkort för tung behörighet (C1, C, C1E, CE) krävs det generellt att du redan har ett svenskt B-körkort (personbil), har ett giltigt körkortstillstånd för **Grupp 2 eller 3** (vilket kräver **läkarintyg**) och klarar Trafikverkets kunskapsprov och körprov.",
+      "keywords": [
+        "b-körkort",
+        "c",
+        "c1",
+        "c1e",
+        "ce",
+        "giltigt",
+        "grundkrav",
+        "grupp 2",
+        "grupp 3",
+        "krav",
+        "körkortstillstånd",
+        "lastbil",
+        "läkarintyg"
+      ]
+    },
+    {
+      "title": "Vad är ålderskravet för att ta lastbilskörkort?",
+      "answer": "Ålderskravet för **C1 och C1E** är **18 år**. För **C och CE** är standardåldern **21 år**. Om du utbildar dig till **yrkesförare** (**YKB**) kan du dock ta **C och CE** redan vid **18 års ålder**.",
+      "keywords": [
+        "18 år",
+        "21 år",
+        "c",
+        "c1",
+        "c1e",
+        "ce",
+        "hur gammal",
+        "lastbil",
+        "ykb",
+        "yrkesförare",
+        "ålder",
+        "ålderskrav"
+      ]
+    },
+    {
+      "title": "Var kan man utbilda sig för lastbil (CE) hos er?",
+      "answer": "Vi erbjuder utbildning för tung lastbil (CE) i Malmö, Hässleholm, Stockholm, Kristianstad och Göteborg. För alla frågor som rör tung trafik, kontakta vår specialiserade support på 010-188 83 26 eller tungtrafik@trafikskolan.com.",
+      "keywords": [
+        "ce",
+        "göteborg",
+        "hässleholm",
+        "kontakt",
+        "kristianstad",
+        "lastbil",
+        "malmö",
+        "stockholm",
+        "städer",
+        "tung trafik",
+        "utbildning",
+        "var"
+      ]
+    },
+	{
+  "title": "Finns Lastbilsutbildning (CE) i Stockholm?",
+  "answer": "Ja, vi erbjuder utbildning för tung lastbil (CE) i Stockholm. Vi har även utbildningar i Malmö, Hässleholm, Kristianstad och Göteborg. För alla frågor som rör tung trafik, kontakta vår specialiserade support på 010-188 83 26 eller tungtrafik@trafikskolan.com.",
+  "keywords": [
+    "lastbil",
+    "ce",
+    "stockholm",
+    "ja",
+    "finns",
+    "utbildning",
+    "tillgänglig"
+  ]
+},
+    {
+      "title": "Vad är skillnaden mellan C1 och C-körkort?",
+      "answer": "C1 är för medeltunga lastbilar (max 7 500 kg) medan C är för tunga lastbilar utan viktgräns. Båda tillåter lätt släp (max 750 kg).",
+      "keywords": [
+        "c",
+        "c1",
+        "medeltung",
+        "skillnad",
+        "tung",
+        "viktgräns"
+      ]
+    },
+    {
+      "title": "Behöver jag B-körkort innan jag tar lastbilskörkort?",
+      "answer": "Ja, för att ta körkort för tung behörighet (C1, C, C1E, CE) krävs det generellt att du redan har ett svenskt B-körkort (personbil).",
+      "keywords": [
+        "b-körkort",
+        "behöver",
+        "innan",
+        "krav",
+        "lastbil",
+        "personbil"
+      ]
+    }
+  ]
+}

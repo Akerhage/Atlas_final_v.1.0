@@ -1,0 +1,30 @@
+{
+  "source": "basfakta_saknade_svar.json",
+  "sections": [
+    {
+      "title": "När är Stora Holm öppet för MC?",
+      "keywords": ["stora holm", "öppet", "säsong", "öppettider", "när stänger", "när öppnar"],
+      "answer": "MC-banan på Stora Holm är öppen under säsongen, som normalt sträcker sig från början av april till slutet av oktober. Under vinterhalvåret är banan stängd för MC-utbildning på grund av väderlek."
+    },
+    {
+      "title": "Regler vid sjukdom och sen avbokning",
+      "keywords": ["sjuk", "avboka sent", "läkarintyg", "sjukintyg", "betala", "debiteras", "återbetalning", "vab"],
+      "answer": "Om du blir sjuk och måste avboka sent (efter ordinarie tidsgräns) slipper du debitering om du uppvisar ett läkarintyg (eller intyg för VAB) inom en vecka från lektionstillfället. Utan intyg debiteras lektionen fullt ut."
+    },
+    {
+      "title": "Betalning efter lektion och avbetalning",
+      "keywords": ["betala efter", "faktura", "delbetala", "kredit", "efterskott", "betala senare", "klarna"],
+      "answer": "Nej, vi tillämpar förskottsbetalning. Du kan dock välja att betala via Klarna, vilket ger dig möjlighet att betala senare (faktura) eller delbetala din utbildning räntefritt."
+    },
+    {
+      "title": "Rabatt på paket om man redan har körkort",
+      "keywords": ["rabatt", "b-körkort", "redan har körkort", "billigare"],
+      "answer": "Vi har inga specifika rabatter för att du redan har ett B-körkort. Våra paketpriser är redan rabatterade jämfört med styckpris."
+    },
+    {
+      "title": "AM-kurs Göteborg Detaljerad",
+      "keywords": ["am göteborg", "pris", "innehåll", "tider", "kväll", "helg", "mölndal", "mölnlycke"],
+      "answer": "AM-kursen i Göteborg kostar 4499 kr. Den inkluderar teori, material, manöverkörning och körning i trafik. Vi har kurser i Mölndal, Högsbo, Mölnlycke och vid Ullevi. Kurser hålls oftast på skolloven, men vi erbjuder även kvälls- och helgkurser."
+    }
+  ]
+}

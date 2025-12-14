@@ -1,0 +1,178 @@
+{
+  "section_title": "BASFAKTA - Policy, Avtal och Vanliga Frågor",
+  "source_info": "Information om våra köpvillkor, avbokningsregler och integritetspolicy.",
+  "sections": [
+    {
+      "title": "Avbokning körlektion – tidsgräns",
+      "answer": "Körlektioner kan avbokas utan avgift senast kl 12:00 vardagen före.",
+      "keywords": [
+        "avboka",
+        "körlektion",
+        "senast kl 12:00",
+        "vardagen före",
+        "utan avgift"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Avbokning Risk 2 – tidsgräns",
+      "answer": "Risk 2 (halkbana) måste avbokas senast 4 vardagar innan.",
+      "keywords": [
+        "risk 2",
+        "halkbana",
+        "4 vardagar",
+        "avboka"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Avbokning AM-kurs – tidsgräns",
+      "answer": "AM-kurs måste avbokas senast kl 12:00 en vecka innan kursstart.",
+      "keywords": [
+        "am",
+        "am-kurs",
+        "en vecka",
+        "kl 12:00",
+        "avboka"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Avbokning MC-intensiv – tidsgräns",
+      "answer": "MC Intensivkurs måste avbokas senast kl 12:00 två veckor innan kursstart.",
+      "keywords": [
+        "mc",
+        "intensivkurs",
+        "två veckor",
+        "kl 12:00",
+        "avboka"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Teori – ingen återbetalning",
+      "answer": "Teori (1800 kr) förbrukas vid köp och kan aldrig återbetalas.",
+      "keywords": [
+        "teori",
+        "återbetalning",
+        "1800",
+        "förbrukat",
+        "aldrig"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Sjukdom – avbokning utan debitering",
+      "answer": "Vid sjukdom: skicka sjukintyg inom 1 vecka från avbokningstillfället för att slippa debitering.",
+      "keywords": [
+        "sjuk",
+        "sjukintyg",
+        "inom 1 vecka",
+        "läkarintyg",
+        "debitering"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "VAB räknas INTE",
+      "answer": "VAB (vård av barn) räknas INTE som giltig frånvaro och ger ingen återbetalning.",
+      "keywords": [
+        "vab",
+        "räknas inte",
+        "vård av barn",
+        "giltig frånvaro"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Paket giltighet – 24 månader",
+      "answer": "Ett köpt paket är giltigt i <EXACT_FACT>24 månader</EXACT_FACT> från inköpsdatum. Outnyttjade lektioner förfaller efter detta.",
+      "keywords": [
+        "paket",
+        "24 månader",
+        "giltighet",
+        "förfaller",
+        "outnyttjade"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Presentkort – Giltighet",
+      "answer": "Presentkort är giltigt i <EXACT_FACT>1 år</EXACT_FACT> från inköpsdatum och kan inte lösas in mot kontanter.",
+      "keywords": [
+        "presentkort",
+        "1 år",
+        "giltigt",
+        "kontanter",
+        "återlösas"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Ångerrätt och Återbetalning av köpta tjänster",
+      "answer": "Du har <EXACT_FACT>14 dagars</EXACT_FACT> ångerrätt enligt distanshandelslagen. Efter 14 dagar kan oanvända delar av paket återbetalas mot en <EXACT_FACT>10%</EXACT_FACT> administrativ avgift av det återstående beloppet. Digitalt teorimaterial anses förbrukat vid aktivering och återbetalas aldrig. Outnyttjade lektioner efter <EXACT_FACT>24 månader</EXACT_FACT> (paketets giltighet) förfaller utan återbetalning.",
+      "keywords": [
+        "ångerrätt",
+        "återbetalning",
+        "14 dagar",
+        "10%",
+        "administrativ avgift",
+        "förfaller"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Digital teori – ingen återbetalning",
+      "answer": "Digitalt teorimaterial (teoripaket) anses förbrukat vid aktivering och återbetalas aldrig.",
+      "keywords": [
+        "digital teori",
+        "teoripaket",
+        "förbrukat",
+        "aktivering",
+        "återbetalas inte"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Betalningsalternativ för lektioner och paket",
+      "answer": "All betalning sker i förskott. Vi erbjuder Klarna som betallösning, vilket inkluderar betalning med Swish, kort, faktura och möjlighet till delbetalning.",
+      "keywords": [
+        "betalning",
+        "förskott",
+        "klarna",
+        "swish",
+        "kort",
+        "faktura",
+        "paket",
+        "lektioner",
+        "alternativ",
+        "delbetalning",
+        "betallösning"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Bokningstider – morgon och kväll",
+      "answer": "Vi erbjuder lektioner på morgon och kväll. Sista starttid: kl 19:20.",
+      "keywords": [
+        "morgon",
+        "kväll",
+        "19:20",
+        "starttid",
+        "boka"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    },
+    {
+      "title": "Support – telefonnummer",
+      "answer": "Kontakta support på 010-333 32 31 eller via appen Mitt Körkort.",
+      "keywords": [
+        "support",
+        "010-333 32 31",
+        "telefon",
+        "kontakta"
+      ],
+      "source": "basfakta_policy_kundavtal"
+    }
+  ]
+}

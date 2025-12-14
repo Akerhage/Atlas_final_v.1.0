@@ -1,0 +1,225 @@
+{
+"section_title": "BASFAKTA - Lektioner och Paket (BIL)",
+"source_info": "Information om alla lektioner, kurser och paket för personbil (B)",
+"sections": [
+{
+"title": "Endast en testlektion per elev",
+"answer": "Nej, en testlektion får endast bokas en gång per elev (inte flera). Vi bedömer din nivå och lägger upp en plan under denna 80-minuters lektion.",
+"keywords": [
+"endast en gång",
+"en gång",
+"bara en gång",
+"testlektion",
+"nivåtest",
+"provlektion",
+"flera testlektioner",
+"boka flera",
+"fler än en",
+"nej",
+"inte flera",
+"kan inte"
+]
+},
+{
+"title": "Vad är en körlektion?",
+"answer": "En körlektion är **80 min** praktisk övning (motsvarande **två 40-minuterslektioner**) där du tränar på olika moment under ledning av en trafikskolelärare.",
+"keywords": [
+"40 minuter",
+"80 min",
+"bil",
+"körlektion",
+"moment",
+"praktisk övning",
+"träna",
+"tränar",
+"vad är"
+]
+},
+{
+"title": "Vad ingår i Minipaket?",
+"answer": "Minipaket innehåller 5 körlektioner till rabatterat pris.",
+"keywords": [
+"5",
+"5 körlektioner",
+"bil",
+"hur många",
+"lektionspaket",
+"minipaket",
+"pris",
+"rabatt"
+]
+},
+{
+"title": "Vad ingår i Mellanpaket?",
+"answer": "Mellanpaket innehåller 10 körlektioner till rabatterat pris.",
+"keywords": [
+"10",
+"10 körlektioner",
+"bil",
+"hur många",
+"lektionspaket",
+"mellanpaket",
+"pris",
+"rabatt"
+]
+},
+{
+"title": "Vad ingår i Baspaket?",
+"answer": "Baspaket innehåller 15 körlektioner till rabatterat pris.",
+"keywords": [
+"15",
+"15 körlektioner",
+"baspaket",
+"bil",
+"hur många",
+"lektionspaket",
+"pris",
+"rabatt"
+]
+},
+{
+"title": "Vad är en vanlig körlektion för bil?",
+"answer": "En vanlig körlektion är **80 minuter** lång (motsvarande två 40-minuterslektioner) och är för dig som behöver träna på specifika moment i din körning, antingen privat eller som en del av ett paket.",
+"keywords": [
+"40 minuter",
+"80 min",
+"80 minuter",
+"bil",
+"körlektion",
+"lektion",
+"längd",
+"privat",
+"vanlig"
+]
+},
+{
+"title": "Vad är en testlektion för bil?",
+"answer": "En testlektion (80 min) är för dig som är ny hos oss. Tillsammans med en lärare bedömer ni din nuvarande nivå och skapar en komplett, personlig utbildningsplan. Testlektion bokas endast en gång.",
+"keywords": [
+"80 min",
+"bedömer",
+"bil",
+"endast en gång",
+"nybörjare",
+"planering",
+"provlektion",
+"startlektion",
+"testlektion",
+"utbildningsplan",
+"vad är"
+]
+},
+{
+"title": "Vad är en prova-på-uppkörning?",
+"answer": "Prova-på-uppkörning är en 80-minuters lektion som är utformad för att vara så likt ett riktigt körprov som möjligt. Den är perfekt för dig som har ett prov bokat och vill testa dina kunskaper under press.",
+"keywords": [
+"80",
+"80 min",
+"bil",
+"körprov",
+"likt",
+"prova-på-uppkörning",
+"provlektion",
+"test",
+"testlektion",
+"uppkörning",
+"vad är"
+]
+},
+{
+"title": "Vad ingår i era totalpaket för bil?",
+"answer": "Våra totalpaket (t.ex. Totalpaket 5, 10, 15) är kompletta startpaket som innehåller körlektioner, Riskettan (Risk 1), Risktvåan (Risk 2 halkbanan) och digitalt teorimaterial i appen 'Mitt Körkort'.",
+"keywords": [
+"bil",
+"halkbana",
+"ingår",
+"innehåller",
+"körlektioner",
+"mitt körkort",
+"paket",
+"pris",
+"risk 1",
+"risk 2",
+"riskettan",
+"riskkurser",
+"risktvåan",
+"teori",
+"totalpaket",
+"vad ingår"
+]
+},
+{
+"title": "Vad är era lektionspaket för bil?",
+"answer": "Våra lektionspaket innehåller olika antal körlektioner till rabatterat pris: Minipaket har 5 körlektioner, Mellanpaket har 10 körlektioner, och Baspaket har 15 körlektioner.",
+"keywords": [
+"10",
+"10 körlektioner",
+"15",
+"15 körlektioner",
+"5",
+"5 körlektioner",
+"antal",
+"bara körlektioner",
+"baspaket",
+"bil",
+"köpa",
+"lektionspaket",
+"mellanpaket",
+"minipaket",
+"paket",
+"pris",
+"rabatt",
+"vad är"
+]
+},
+{
+"title": "Hur fungerar er två-veckors intensivkurs för bil?",
+"answer": "Intensivutbildningen pågår i två veckor och innehåller 16 körlektioner, Risk 1, Risk 2 och digital teori. Det är ett upplägg för dig som är väldigt flexibel med tider och kan köra varje dag under perioden. Proven bokas in veckan efter.",
+"keywords": [
+"16",
+"16 lektioner",
+"bil",
+"fungerar",
+"hur",
+"hur fungerar",
+"intensivkurs",
+"intensivkursen",
+"intensivutbildning",
+"pris",
+"risk 1",
+"risk 2",
+"två veckor",
+"upplägg"
+]
+},
+{
+"title": "Vad är skillnaden mellan totalpaket och lektionspaket?",
+"answer": "Totalpaket för bil innehåller körlektioner, riskkurser (Risk 1 och Risk 2), och digitalt teorimaterial via appen 'Mitt Körkort'. Lektionspaket innehåller bara körlektioner till rabatterat pris för att träna olika moment.",
+"keywords": [
+"bara",
+"bara körlektioner",
+"bil",
+"jämförelse",
+"lektionspaket",
+"paket",
+"pris",
+"riskkurser",
+"skillnad",
+"totalpaket",
+"vad är skillnaden"
+]
+},
+{
+"title": "Finns extra anpassning för återfallselever?",
+"answer": "Ja, vi erbjuder anpassning av utbildningen för alla elever, inklusive återfallselever som kan behöva extra lektioner eller fokus på specifika moment.",
+"keywords": [
+"anpassning",
+"extra lektioner",
+"färre",
+"individuellt",
+"återfallselev",
+"återfallselever"
+]
+}
+]
+}

@@ -1,0 +1,153 @@
+{
+  "section_title": "BASFAKTA - Riskutbildning BIL och MC",
+  "source_info": "Information om Risk 1 och Risk 2 för personbil och motorcykel.",
+  "sections": [
+    {
+      "title": "Vad är Risk 1 (Riskettan)?",
+      "answer": "Risk 1, även kallad Riskettan, är en teoretisk kurs på cirka 3,5 timmar där du lär dig om trafikolyckor, riskbeteenden och hur man minskar risken för skador. Kursen fokuserar särskilt på risker med alkohol, droger och trötthet i trafiken. För Risk 1 krävs inget körkortstillstånd.",
+      "keywords": [
+        "3,5 timmar",
+        "alkohol",
+        "droger",
+        "inget",
+        "krävs",
+        "körkortstillstånd",
+        "obligatorisk",
+        "risk 1",
+        "riskettan",
+        "riskutbildning del 1",
+        "teoretisk",
+        "trötthet",
+        "vad ingår"
+      ]
+    },
+    {
+      "title": "Vad är Risk 2 (Risktvåan) för bil?",
+      "answer": "Risk 2 för bil, även kallad Risktvåan eller halkbanan, är en praktisk kurs på halkbanan där du tränar på att hantera farliga situationer som halka och undanmanövrer. För Risk 2 krävs ett giltigt körkortstillstånd.",
+      "keywords": [
+        "bil",
+        "halkbana",
+        "halkbanan",
+        "krävs",
+        "körkortstillstånd",
+        "praktisk",
+        "risk 2",
+        "risktvåan",
+        "riskutbildning del 2"
+      ]
+    },
+    {
+      "title": "Vad är Risk 2 (Risktvåan) för MC?",
+      "answer": "Risk 2 för motorcykel är en praktisk kurs där du tränar på att hantera farliga situationer specifikt för motorcykel. För Risk 2 MC krävs ett giltigt körkortstillstånd.",
+      "keywords": [
+        "krävs",
+        "körkortstillstånd",
+        "mc",
+        "mc risk 2",
+        "motorcykel",
+        "praktisk",
+        "risk 2",
+        "risktvåan"
+      ]
+    },
+    {
+      "title": "När ska jag göra Risk 2?",
+      "answer": "Risk 2 (halkbanan) bör du göra när du har kommit en bra bit i din praktiska körning och fått viss körupplevelse, Båda riskutbildningarna (Risk 1 och Risk 2) måste vara godkända innan du kan göra ditt körprov.",
+      "keywords": [
+        "båda",
+        "godkända",
+        "halkbanan",
+        "kommit en bra bit",
+        "körupplevelse",
+        "när",
+        "praktisk körning",
+        "praktiska körning",
+        "risk 2",
+        "timing"
+      ]
+    },
+    {
+      "title": "Hur länge är riskutbildningen giltig?",
+      "answer": "En genomförd och godkänd riskutbildning (både Risk 1 och Risk 2) är giltig i 5 år från det datum den sista delen genomfördes. Om din riskutbildning går ut efter 5 år, måste du genomföra på nytt båda delarna.",
+      "keywords": [
+        "5 år",
+        "fem år",
+        "genomföra på nytt",
+        "giltig",
+        "går ut",
+        "göra om",
+        "ut"
+      ]
+    },
+    {
+      "title": "Hur lång är riskettan?",
+      "answer": "Riskettan (Risk 1) tar cirka 3,5 timmar.",
+      "keywords": [
+        "3,5 timmar",
+        "hur lång",
+        "längd",
+        "riskettan"
+      ]
+    },
+    {
+      "title": "Hur lång tid tar halkbanan?",
+      "answer": "Halkbanan (Risktvåan) tar cirka 4-5 timmar.",
+      "keywords": [
+        "4-5 timmar",
+        "avbokningspolicy",
+        "halkbanan",
+        "hur lång",
+        "hur lång tid",
+        "längd",
+        "risktvåan"
+      ]
+    },
+    {
+      "title": "Vad är nollvisionen?",
+      "answer": "Nollvisionen är ett trafiksäkerhetsmål som innebär att ingen ska dödas eller skadas allvarligt i trafiken.",
+      "keywords": [
+        "dödas",
+        "ingen",
+        "nollvisionen",
+        "skadas",
+        "trafiksäkerhet",
+        "vad är"
+      ]
+    },
+    {
+      "title": "I vilken ordning ska jag göra Risk 1 och Risk 2?",
+      "answer": "Du kan göra Risk 1 och Risk 2 i vilken ordning som helst - båda kan göras oberoende av varandra. Vi rekommenderar att du har viss körvana innan Risk 2 (halkbanan).",
+      "keywords": [
+        "båda",
+        "före",
+        "först",
+        "kan göras",
+        "oberoende",
+        "ordning",
+        "ordningen",
+        "risk 1",
+        "risk 2",
+        "riskutbildning",
+        "vilken ordning",
+        "vilken ordning som helst"
+      ]
+    },
+    {
+      "title": "Måste jag göra om riskutbildningen för motorcykel om jag redan har bil?",
+      "answer": "Nej, men du måste genomföra en separat riskutbildning specifikt för motorcykel (både Risk 1 MC och Risk 2 MC), även om du redan har gjort riskutbildning för bil. Riskutbildningen för bil gäller inte för motorcykel.",
+      "keywords": [
+        "bil",
+        "gäller",
+        "inte",
+        "mc",
+        "mc risk 1",
+        "mc risk 2",
+        "motorcykel",
+        "måste göra om",
+        "separat",
+        "specifikt",
+        "även"
+      ]
+    }
+  ]
+}

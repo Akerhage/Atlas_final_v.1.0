@@ -1,0 +1,173 @@
+{
+  "section_title": "BASFAKTA - Snabbfrågor Personbil (B)",
+  "source_info": "Snabba svar på vanliga, unika frågor om B-körkort.",
+  "sections": [
+    {
+      "title": "Vad är åldersgränsen för att ta B-körkort (personbil)?",
+      "answer": "För att få ett B-körkort måste du ha fyllt 18 år.",
+      "keywords": [
+        "18 år",
+        "B",
+        "b körkort",
+        "b-körkort",
+        "bil",
+        "fyllt 18 år",
+        "få körkort",
+        "hur gammal",
+        "köra bil",
+        "personbil",
+        "ta körkort",
+        "ålder",
+        "åldersgräns"
+      ]
+    },
+    {
+      "title": "När kan jag börja övningsköra för bil?",
+      "answer": "Du kan börja övningsköra för personbil från den dag du fyller 16 år (från 16 år), förutsatt att du har ett giltigt körkortstillstånd och en godkänd handledare.",
+      "keywords": [
+        "16",
+        "16 år",
+        "B",
+        "bil",
+        "börja",
+        "börja köra",
+        "från 16 år",
+        "fyllt 16 år",
+        "handledare",
+        "hur gammal",
+        "kan börja",
+        "körkortstillstånd",
+        "personbil",
+        "tillåtet",
+        "ålder",
+        "övningsköra"
+      ]
+    },
+    {
+      "title": "Vad krävs för att börja övningsköra privat?",
+      "answer": "För att börja övningsköra privat krävs att du har fyllt 16 år, har ett giltigt körkortstillstånd och en godkänd handledare som har gått introduktionskursen tillsammans med dig.",
+      "keywords": [
+        "16",
+        "16 år",
+        "handledare",
+        "introduktionskurs",
+        "krav",
+        "körkortstillstånd",
+        "vad krävs",
+        "övningsköra privat"
+      ]
+    },
+    {
+      "title": "Kan en 17-åring övningsköra?",
+      "answer": "Ja, en 17-åring kan övningsköra för personbil eftersom åldersgränsen för övningskörning är 16 år. Det krävs ett giltigt körkortstillstånd och en godkänd handledare (som måste vara minst 24 år).",
+      "keywords": [
+        "16 år",
+        "17 år",
+        "17-åring",
+        "B",
+        "bil",
+        "ja",
+        "kan övningsköra",
+        "kompis",
+        "personbil",
+        "tillåtet",
+        "tonåring",
+        "övningsköra"
+      ]
+    },
+    {
+      "title": "Får jag köra automat om jag tar körkort för manuell?",
+      "answer": "Ja, om du tar ett B-körkort för manuellt växlad bil får du köra både manuella och automatväxlade bilar.",
+      "keywords": [
+        "automatväxlade",
+        "B",
+        "behörighet",
+        "bil",
+        "både",
+        "får jag",
+        "har manuellt",
+        "ja",
+        "köra automat",
+        "körkort",
+        "manuell",
+        "manuella",
+        "manuellt körkort",
+        "med manuellt",
+        "personbil"
+      ]
+    },
+    {
+      "title": "Vad händer om jag tar körkort för automat?",
+      "answer": "Nej, om du tar körkortet med automat får du inte köra manuell bil. Om du gör din uppkörning med en automatväxlad bil får ditt körkort ett villkor (<EXACT_FACT>kod 78</EXACT_FACT>) som innebär att du endast får köra bilar med automatlåda. För att få köra manuell bil måste du göra ett nytt, godkänt körprov med en manuell bil.",
+      "keywords": [
+        "automatbil",
+        "automatkörkort",
+        "automatlåda",
+        "B",
+        "begränsning",
+        "bil",
+        "endast",
+        "inte",
+        "kod 78",
+        "körkort för automat",
+        "manuell bil",
+        "nej",
+        "personbil",
+        "uppkörning",
+        "villkor 78",
+        "automat ger kod 78",
+        "villkor automatbil"
+      ]
+    },
+    {
+      "title": "Vad ingår i uppkörningen?",
+      "answer": "Uppkörningen har en total tid på cirka 45 minuter och består av en säkerhetskontroll där du visar fem kontrollpunkter på bilen, följt av cirka 25-30 minuters körning i varierande trafikmiljö tillsammans med en examinator från Trafikverket.",
+      "keywords": [
+        "25 minuter",
+        "30 minuter",
+        "45 minuter",
+        "examinator",
+        "fem kontrollpunkter",
+        "körning",
+        "körprov",
+        "säkerhetskontroll",
+        "total tid",
+        "trafikverket",
+        "uppkörning",
+        "uppkörningen",
+        "vad ingår"
+      ]
+    },
+    {
+      "title": "Vad betyder villkor 78?",
+      "answer": "<EXACT_FACT>Villkor 78</EXACT_FACT>, även kallat <EXACT_FACT>kod 78</EXACT_FACT>, innebär att om du gör uppkörningen med en automatväxlad automatbil får ditt körkort ett villkor som gör att du endast får köra bilar med automatlåda. För att ta bort villkor 78 och få köra manuellt måste du göra ett nytt, godkänt körprov med en manuell bil.",
+      "keywords": [
+        "automat",
+        "automatbil",
+        "automatlåda",
+        "endast",
+        "kod 78",
+        "manuell",
+        "villkor 78"
+      ]
+    },
+    {
+      "title": "Skillnad mellan manuellt och automatkörkort",
+      "answer": "Om du tar körkort för manuell bil får du köra både manuella och automatväxlade bilar. Om du däremot gör uppkörningen med automatbil får ditt körkort ett villkor (kod 78) som innebär att du endast får köra bilar med automatlåda. För att ta bort villkor 78 och få köra manuellt måste du göra ett nytt, godkänt körprov med en manuell bil.",
+      "keywords": [
+        "automat",
+        "automatkörkort",
+        "B",
+        "bil",
+        "både",
+        "jämförelse",
+        "kod 78",
+        "manuell",
+        "manuellt",
+        "personbil",
+        "skillnad",
+        "villkor 78"
+      ]
+    }
+  ]
+}

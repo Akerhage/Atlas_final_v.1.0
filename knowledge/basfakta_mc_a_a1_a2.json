@@ -1,0 +1,102 @@
+{
+  "section_title": "BASFAKTA - MC-behörigheter (A, A1, A2)",
+  "source_info": "Information om de olika körkortsbehörigheterna för motorcykel.",
+  "sections": [
+    {
+  "title": "Vilken ålder krävs för A-körkort (Tung MC)?",
+  "answer": "För direkt A-körkort (tung motorcykel) krävs att du är 21 år för trehjulig MC över 15 kW, eller 24 år för tvåhjulig. Har du haft A2 i minst 2 år kan du ta A från 20 år.",
+  "keywords": [
+    "vilken ålder krävs",
+    "ålder",
+    "tung mc",
+    "a-körkort",
+    "21 år",
+    "24 år",
+    "20 år",
+    "direkt",
+    "trehjulig",
+    "tvåhjulig"
+  ],
+  "score_boost": 9999
+},
+{
+      "title": "Vad är A1-körkort (Lätt motorcykel)?",
+      "answer": "A1-körkort ger dig rätt att köra lätta motorcyklar från 16 års ålder. Motorn får ha en slagvolym på högst 125 kubikcentimeter och en effekt på högst 11 kilowatt (kW).",
+      "keywords": [
+        "11kw",
+        "125cc",
+        "16 år",
+        "a1",
+        "lätt motorcykel",
+        "vad är"
+      ]
+    },
+    {
+      "title": "Vad är A2-körkort (Mellanstor motorcykel)?",
+      "answer": "A2-körkort ger dig rätt att köra mellanstora motorcyklar från 18 års ålder. Motorn får ha en effekt på högst 35 kilowatt (kW) och får inte ursprungligen ha kommit från ett fordon med mer än 70 kW.",
+      "keywords": [
+        "18 år",
+        "35kw",
+        "a2",
+        "mellanstor motorcykel",
+        "vad är"
+      ]
+    },
+    {
+      "title": "Vad är A-körkort (Tung motorcykel)?",
+      "answer": "A-körkort, även kallat tung motorcykel, ger dig rätt att köra alla två- och trehjuliga motorcyklar. Du kan ta det direkt från 24 års ålder. Har du haft A2-körkort i två år kan du uppgradera till A från 20 års ålder genom ett körprov.",
+      "keywords": [
+        "20 år",
+        "24 år",
+        "a",
+        "körprov",
+        "obegränsad",
+        "tung motorcykel",
+        "två år",
+        "uppgradera",
+        "vad är"
+      ]
+    },
+    {
+      "title": "Vilka regler gäller för tre- eller fyrhjuliga motorcyklar?",
+      "answer": "För att köra trehjuliga motorcyklar med mer än 15 kW effekt krävs A-körkort (tung motorcykel) och att du har fyllt 21 år. För att köra fyrhjuliga motorcyklar krävs B-körkort (personbil), om du inte tog ditt MC-kort före 19 januari 2013.",
+      "keywords": [
+        "21 år",
+        "b-körkort",
+        "fyrhjulig",
+        "mc-kategori",
+        "motorcykel",
+        "regler",
+        "trehjulig",
+        "ålder"
+      ]
+    },
+    {
+      "title": "Hur uppgraderar man A2 till A-körkort?",
+      "answer": "Du kan uppgradera från A2 till A när du haft A2-körkort i minst två år och har fyllt 20 år. Uppgraderingen sker genom ett körprov hos Trafikverket – du behöver inte göra ett teoriprov.",
+      "keywords": [
+        "20 år",
+        "a2 till a",
+        "från a2",
+        "inte teoriprov",
+        "körprov",
+        "två år",
+        "uppgradera",
+        "uppgradering"
+      ]
+    },
+    {
+      "title": "Var kan man ta MC-körkort hos er?",
+      "answer": "Vi erbjuder utbildning för motorcykel (MC) i följande städer: Malmö, Stockholm/Österåker, Helsingborg, Kristianstad, Landskrona, Trelleborg, Lund, Ystad, Ängelholm, Hässleholm och Göteborg.",
+      "keywords": [
+        "kontor",
+        "mc-utbildning",
+        "städer",
+        "ta mc-kort",
+        "trafikskolor",
+        "var",
+        "vilka"
+      ]
+    }
+  ]
+}
